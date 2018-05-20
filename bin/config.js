@@ -13,8 +13,8 @@ var autoconfig  = function (config_overrides){
   })
 
   var ws_info = {
-    id: "MBN-nationalparks-js",
-    displayName: "National Parks (JS)",
+    id: "nationalparks-js",
+    displayName: "MBN-National Parks (JS)",
     type: "cluster",
     center: {'latitude': '47.039304', 'longitude': '14.505178'},
     zoom: 4
